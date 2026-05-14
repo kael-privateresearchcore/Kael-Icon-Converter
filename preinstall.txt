@@ -1,0 +1,16 @@
+Welcome to the Kael-Icon Converter Setup
+
+This wizard will install Kael-Icon Converter on your computer.
+
+System Requirements:
+- Windows 7 or later (64-bit recommended)
+- No additional software required (standalone executable)
+
+Features:
+- Convert images (PNG, JPG, JPEG, BMP, WEBP) to Windows .ico format
+- Choose custom icon sizes (16x16 to 256x256)
+- Drag & drop or file selection
+- Live preview
+- Modern glass UI
+
+Click Next to continue.

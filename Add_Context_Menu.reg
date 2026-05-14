@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+; Context menu for image files (PNG, JPG, JPEG, BMP, WEBP)
+[HKEY_CLASSES_ROOT\SystemFileAssociations\image\shell\ConvertToICO]
+@="Convert to ICO with Kael-Icon Converter"
+"Icon"="\"C:\\Program Files\\Kael-Icon Converter\\KaelIconConverter.exe\",0"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\image\shell\ConvertToICO\command]
+@="\"C:\\Program Files\\Kael-Icon Converter\\KaelIconConverter.exe\" \"%1\""
+
+; Optional: Also add for .ico files (to open/edit ICO files)
+[HKEY_CLASSES_ROOT\.ico\shell\OpenWithKael]
+@="Open with Kael-Icon Converter"
+"Icon"="\"C:\\Program Files\\Kael-Icon Converter\\KaelIconConverter.exe\",0"
+
+[HKEY_CLASSES_ROOT\.ico\shell\OpenWithKael\command]
+@="\"C:\\Program Files\\Kael-Icon Converter\\KaelIconConverter.exe\" \"%1\""

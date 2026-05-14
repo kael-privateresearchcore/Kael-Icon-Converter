@@ -1,0 +1,16 @@
+Thank you for installing Kael-Icon Converter!
+
+The application has been successfully installed on your system.
+
+You can now launch Kael-Icon Converter from the Start Menu or desktop shortcut (if created).
+
+Feedback & Support:
+- Website:https://kaelprivateresearchcore.dpdns.org
+- Telegram: https://t.me/kael_privateresearchcore
+- GitHub issues: https://github.com/kael-privateresearchcore
+
+If you find this tool useful, please consider starring the project on GitHub.
+
+© 2025 Kaelion (Kyaw Wai Yan Naing). Licensed under GNU GPL v3.
+
+Click Finish to exit the setup wizard.
