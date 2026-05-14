@@ -2,7 +2,7 @@
 
 **Professional Smart Icon Generator** – Convert any image to Windows `.ico` format with custom size selection.
 
-![Kael-Icon Converter main window](screenshot1.png)
+![KaelIcon Converter Application Icon](https://raw.githubusercontent.com/kael-privateresearchcore/Kael-Icon-Converter/refs/heads/main/icon.ico)
 
 ## Features
 - Drag & drop or select an image (PNG, JPG, JPEG, BMP, WEBP)
