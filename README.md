@@ -21,7 +21,6 @@
 |-------------|----------------------|
 | ![Main Window](Screenshot%201.png) | ![Size Dialog](Screenshot%202.png) |
 
-*(Replace `Screenshot%201.png` and `Screenshot%202.png` with your actual screenshot filenames. Upload them to your repository.)*
 
 ---
 
